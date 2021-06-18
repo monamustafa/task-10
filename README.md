@@ -1,2 +1,2 @@
 # task-10
-https://github.com/monamustafa/task-10
+https://monamustafa.github.io/task-10/
